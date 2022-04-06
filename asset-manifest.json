@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codemancers/static/css/main.8b9762ba.css",
+    "main.js": "/codemancers/static/js/main.2a6d2fa9.js",
+    "index.html": "/codemancers/index.html",
+    "main.8b9762ba.css.map": "/codemancers/static/css/main.8b9762ba.css.map",
+    "main.2a6d2fa9.js.map": "/codemancers/static/js/main.2a6d2fa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b9762ba.css",
+    "static/js/main.2a6d2fa9.js"
+  ]
+}
